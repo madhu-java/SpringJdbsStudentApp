@@ -61,12 +61,8 @@ public class SpringJdbcStudentAppApplication {
 				if(rows>0) {
 					System.out.println("Student added successfully");
 				}
-				
-
-					
 					break;
 					
-			
 				case 4:
 					System.out.println("Enter student ID to delete a student!!");
 				
